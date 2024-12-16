@@ -1,6 +1,0 @@
-1. Change the global font to Inter. It should be downloaded into this app and imported, instead of getting it from a cdn.
-2. Implement the checkbox component using the ControlValueAccessor interface and adding the provider, just like the input component.
-3. Style the form.
-- 
-4. When creating a task, store the task in global state, so the data is preserved in global state. Assign to each task a unique id.
-5. Implement a /tasks/:taskId route that should show each task from the global state
